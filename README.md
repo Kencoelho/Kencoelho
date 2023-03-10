@@ -61,4 +61,4 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/Kencoelho/Kencoelho/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Kencoelho/Kencoelho/blob/output/github-contribution-grid-snake.svg)
