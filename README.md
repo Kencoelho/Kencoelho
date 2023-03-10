@@ -2,7 +2,6 @@
 
 - 👨‍💻 Atualmente não estou em nenhum projeto
 - 📖 Bacharelando em Ciências e Tecnologia e Engenharia da Computação, UFRN
-- 😄 Pronomes: ele/dele
 
 <div>
 	<a href="https://www.linkedin.com/in/kennedy-coelho/">
